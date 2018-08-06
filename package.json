@@ -1,0 +1,25 @@
+{
+  "name": "vue-auth-plugin",
+  "version": "1.0.0",
+  "description": "vue 单页面鉴权插件 ",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavin-hao/vue-auth.git"
+  },
+  "keywords": [
+    "vue",
+    "vuex",
+    "vue-router",
+    "authenticate"
+  ],
+  "author": "haozhigang@outlook.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gavin-hao/vue-auth/issues"
+  },
+  "homepage": "https://github.com/gavin-hao/vue-auth#readme"
+}
